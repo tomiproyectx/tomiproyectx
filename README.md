@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/tomasagostino/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
+  <a href="https://app.datacamp.com/profile/tomasagostino" target="_blank">
+    <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/hq30ze9287y9ztkmcdhy" width="35" height="30" alt="datacamp logo"  />
+  </a>
 </div>
 
 ###
