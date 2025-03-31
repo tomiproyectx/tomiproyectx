@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Tomas Agostino from Argentina<br><br>- 🔭 I’m working as a Data Analytics Senior Associate at PwC<br>- 📚 I'm currently learning Data Governance concepts,tools and frameworks(DAMA)</p>
+<p align="left">I'm Tomas Agostino from Argentina<br><br>- 🔭 I’m working as a Data Analytics Senior Associate at PwC<br>- 📚 I'm a Data Engineer with a background in Data Analytics and a strong focus on building robust, scalable data pipelines. I specialize in batch and streaming data processing, API integration, and cloud-native solutions.</p>
 
 ###
 
@@ -34,23 +34,13 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg](https://cdn-icons-png.flaticon.com/512/4299/4299956.png)" height="40" alt="sql logo"  />
 </div>
 
 ###
