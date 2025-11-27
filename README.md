@@ -1,79 +1,99 @@
 <h1 align="center">Hey there!</h1>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 👨‍💻 About Me
 
-###
+I'm **Tomas Agostino** from Argentina.
 
-<p align="left">I'm Tomas Agostino from Argentina<br><br>- 🔭 I’m working as a Data Analytics Senior Associate at PwC<br>- 📚 I'm a Data Engineer with a background in Data Analytics and a strong focus on building robust, scalable data pipelines. I specialize in batch and streaming data processing, API integration, and cloud-native solutions.</p>
+- 🔭 **Data Analytics Senior Associate at PwC**  
+- 📚 **Data Engineer** with a strong foundation in Data Analytics  
+- Focused on building **robust, scalable data pipelines**, including:  
+  - Batch & streaming processing  
+  - API-driven ingestion  
+  - Cloud-native architectures  
+  - CI/CD & orchestration best practices  
 
 <div align="left">
   <a href="https://www.linkedin.com/in/tomasagostino/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo" />
   </a>
 </div>
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🛠️ Languages & Tools
 
-###
-
-<h4 align="left">- Programming/Query Languages</h4>
+### 💻 Programming & Query Languages
 <div align="left">
-  <img src="https://cdn-icons-png.freepik.com/256/4248/4248443.png?semt=ais_hybrid" height="40" alt="sql logo"  />
+  <!-- SQL -->
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40" alt="SQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" height="40" alt="java logo"  />
-  <img width="12" />
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
 </div>
 
-<h4 align="left">- Orchestation & DataOps</h4>
+### 🪄 Orchestration & DataOps
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Apache-nifi-logo.svg/2560px-Apache-nifi-logo.svg.png" height="40" alt="apache nifi"  />
+  <!-- Apache NiFi -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Apache-nifi-logo.svg/512px-Apache-nifi-logo.svg.png" height="40" alt="Apache NiFi logo" />
   <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" height="40" alt="apache airflow"  />
-  <img width="12" />
+  <!-- Apache Airflow -->
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" height="40" alt="Apache Airflow logo" />
 </div>
 
-<h4 align="left">- BigData Tools</h4>
+### ⚡ Big Data Ecosystem
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" height="40" alt="apache spark logo"  />
+  <!-- Apache Spark -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" alt="Apache Spark logo" />
   <img width="12" />
-  <img src="https://kudu.apache.org/img/apachekudu_logo_0716_345px.png" height="40" alt="apache kudu"  />
+  <!-- Apache Kudu -->
+  <img src="https://kudu.apache.org/img/apachekudu_logo_0716_345px.png" height="40" alt="Apache Kudu logo" />
   <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:664/1*7mq9G32EtqRfWa-Broc5uw.png" height="40" alt="apache kafka logo"  />
-  <img width="12" />
+  <!-- Apache Kafka -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Apache Kafka logo" />
 </div>
 
-<h4 align="left">- Cloud Services</h4>
+### ☁️ Cloud Platforms
 <div align="left">
-  <img src="https://images.icon-icons.com/2407/PNG/512/aws_icon_146074.png" height="40" alt="aws logo"  />
+  <!-- AWS -->
+  <img src="https://images.icon-icons.com/2407/PNG/512/aws_icon_146074.png" height="40" alt="AWS logo" />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/87383?s=200&v=4" height="40" alt="cloudera logo"  />
-  <img width="12" />
+  <!-- Cloudera -->
+  <img src="https://avatars.githubusercontent.com/u/87383?s=200&v=4" height="40" alt="Cloudera logo" />
 </div>
 
-<h4 align="left">- CI/CD & Data Modelling</h4>
+### 🛠️ CI/CD & Data Modeling
 <div align="left">
-  <img src="https://www.biztory.com/hubfs/dbt-signature_logo.png" height="40" alt="dbt logo"  />
+  <!-- dbt -->
+  <img src="https://logowik.com/content/uploads/images/dbt5596.jpg" height="40" alt="dbt logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
 </div>
 
-<h4 align="left">- Containerization</h4>
+### 🐳 Containerization
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker logo" />
 </div>
 
-<h4 align="left">- Other Tools</h4>
+### 🔧 Other Tools
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
+  <!-- Jira -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira logo" />
 </div>
 
-###
+
+## 🚀 Projects
+
+### **🏆 WoW PvP Leaderboard ETL Pipeline**
+**Tech:** Python, Airflow, Docker, DuckDB, Parquet, AWS Redshift, GitHub Actions  
+Built a full end-to-end ELT pipeline that ingests real-time data from Blizzard’s World of Warcraft APIs, processes it through landing/raw/cur layers, and loads a Redshift star schema with an SCD2 character dimension and daily PvP leaderboard fact snapshots. Automated with Airflow (Docker) and validated with unit tests + CI/CD.
+
+🔗 **Repo:** https://github.com/tomiproyectx/WoW-Blizzard-API
+
+---
